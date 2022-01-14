@@ -1,2 +1,97 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Notes</title>
+</head>
+
+<body>
+    markup is text that has <em>special</em> meaning <em><br></em> <br>
+    <p>Mary had a <strong>little</strong> toad</p>
+    <p>its skin as tough as shell</p>
+    <p>and every file the toad would write</p>
+    <p>it used HTML.</p>
+    <br> This is a <em>story</em> all about how
+    <mark>my life</mark> got <sub>flipped,</sub> turned <sup>upside down</sup> ...
+    <br>
+    <h1>My HTML Notes</h1>
+    <p>This page is a collection of my awesome notes about HTML!</p>
+    <h2>The Web</h2>
+    <p>The Web (or World Wide Web) is a collection of documents and other files.Most of the documents are made using Hypertext Markup Language (HTML).</p>
+    <h2>What is HTML?</h2>
+    <p>HTML stands for <em>Hypertext Markup Language.</em>It's used to define the structure or layout of a web page.</p>
+    <br>
+    <h1>My Chemistry Notes</h1>
+    <p>
+        <strong>Molecule Name:</strong> <em>Sulfur hexafluoride</em>
+    </p>
+    <p>
+        <strong>Molecular formula:</strong> SF<sub>6</sub>
+    </p>
+    <p>
+        <strong>Note:</strong> This gas has a much higher density than air. Basically the opposite of helium. <mark>Crazy!</mark>
+    </p>
+    <br><br>
+    <div>
+        <p> Call me Ishmael.</p>
+        <P>Just don't call me late for dinner</P>
+    </div>
+    <br>
+    <p>Like this!</p>
+    <br>
+    <ol>
+        <li>Learn HTML.</li>
+        <li>Learn CSS.</li>
+        <li>Learn Python.</li>
+        <li>Save the world.</li>
+    </ol>
+    <br><br>
+    <ul>
+        <li>Learn HTML.</li>
+        <li>Learn CSS.</li>
+        <li>Learn Python</li>
+        <li>Save the world.</li>
+    </ul>
+    <br>
+    <ul>
+        <li>Two elements that have optional closing tags are <em>Li</em> and <em>P</em></li>
+        <li>The browser will figure out where the element should be closed, even though you didn't explicitly tell it.</li>
+    </ul>
+    <br><br>
+    <p>Here is an example of a nested list:</p>
+    <ul>
+        <li>Mammals
+            <ol>
+                <li>Raccoons
+                    <li>Gorillas
+            </ol>
+            <li>Reptilles
+                <ol>
+                    <li>Iguanas
+                        <li>Cobras
+                </ol>
+                <li>Birds
+                    <ol>
+                        <li>Ostriches
+                            <li>Ravens
+                    </ol>
+    </ul>
+    <p>Indentation can help show the nested structure of the elements.</p>
+    <p>It can also make the code <em>much</em> easier to read!</p>
+    <br><br>
+    <a href="https://google.com/">Google</a>
+    <br><br>
+    <img src="https://placebear.com/800/600" alt="Bears">
+    <br><br>
+    <p>My Favorite things:</p>
+    <ol>
+        <li><a href="https://en.wikipedia.org/wiki/Bear"> target="blank">Bears</a>
+            <li><a href="https://en.wikipedia.org/wiki/Kitten"> target="blank">Kittens</a>
+    </ol>
+    <img src="https://placebear.com/150/150" alt="A picture of a Bear.">
+    <img src="https://placekitten.com/150/150" alt="A picture of a Kitten.">
+</body>
+
+</html>
